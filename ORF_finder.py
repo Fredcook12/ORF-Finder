@@ -1,4 +1,4 @@
-# HOW TO RUN SCRIPT - python3 group_5_task_1.py genome.fasta -m 100
+# HOW TO RUN SCRIPT - python3 ORF_finder.py genome.fasta -m 100
 import argparse
 parser = argparse.ArgumentParser(description='find ORFs in a nucleotide genome sequence')
 parser.add_argument("fileName", help="Input filename of the genome sequence (.fasta)")     
