@@ -10,7 +10,7 @@ Running the Script
 To run the script, use the following command:
 
 
-python3 group_5_task_1.py genome.fasta -m 100
+python3 ORF_finder.py genome.fasta -m 100
 
 genome.fasta: Input filename of the genome sequence in FASTA format.
 
