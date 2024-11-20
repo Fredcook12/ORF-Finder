@@ -11,7 +11,7 @@ To run the script, use the following command:
 
 python3 ORF_finder.py genome.fasta -m 100
 
-genome.fasta: Input filename of the genome sequence in FASTA format.
+genome.fasta: Input filename of the genome sequence in FASTA format or use your own in FASTA format.
 
 -m or --minOrfSize: (Optional) The minimum length of an ORF in amino acids. Default is set to 50.
 
