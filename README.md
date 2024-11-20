@@ -4,9 +4,8 @@ This tool is designed to identify Open Reading Frames (ORFs) in a nucleotide gen
 
 ## How to Use
 
-Prerequisites
-Python 3.x
 Running the Script
+
 To run the script, use the following command:
 
 
